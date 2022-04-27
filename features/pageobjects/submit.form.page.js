@@ -25,7 +25,7 @@ class SubmitFormPage extends Page {
      * overwrite specific options to adapt it to page object
      */
     open () {
-        return super.open();
+        return super.open("/");
     }
 }
 
