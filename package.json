@@ -1,0 +1,11 @@
+{
+    "name": "webdriverio-tests",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+        "@wdio/cli": "^7.19.6"
+    },
+    "scripts": {
+        "wdio": "wdio run wdio.conf.js"
+    }
+}
