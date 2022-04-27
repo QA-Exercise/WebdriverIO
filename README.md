@@ -1,5 +1,7 @@
 # WebdriverIO
 
+For this exercise, please use Cucumber POM approach.
+
 Automation Exercise:
-Automate Practice Form
-Execute automation scripts in Github Actions
+- Create Automation Scripts to test Practice Form
+- Execute automation scripts in Github Actions
