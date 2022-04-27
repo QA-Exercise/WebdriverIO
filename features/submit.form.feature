@@ -2,9 +2,7 @@ Feature: Automate Practice Form
 
   Scenario Outline: As a user, I can ...
 
-    Given I am on the login page
-    When I login with <username> and <password>
-    Then I should see a flash message saying <message>
+    Given I am on the demoqa page
 
     Examples:
       | username | password             | message                        |
