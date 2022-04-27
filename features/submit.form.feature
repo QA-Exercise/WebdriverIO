@@ -1,6 +1,6 @@
-Feature: The Internet Guinea Pig Website
+Feature: Automate Practice Form
 
-  Scenario Outline: As a user, I can log into the secure area
+  Scenario Outline: As a user, I can ...
 
     Given I am on the login page
     When I login with <username> and <password>
