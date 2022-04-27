@@ -1,5 +1,5 @@
 # WebdriverIO
 
-Page to Automate - https://demoqa.com/automation-practice-form
-
-Use Github Actions for CI/CD
+Automation Exercise:
+Automate Practice Form
+Execute automation scripts in Github Actions
