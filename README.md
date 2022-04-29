@@ -24,8 +24,8 @@ WebDriverIO Docs: https://webdriver.io/docs/gettingstarted
 1. Push to your forked repo & ensure that the Github Action passes with your tests
 1. Under your repo settings -> collaborators, grant Read access to @QA-Exercise.
 
-###What we look for
-Test Data - Don't use same data over and over again. Use FakerJS to generate random test data for names, emails, phone numbers.
-Step-Definitions - Try to create reusable step definitions. Use [parameterization](https://github.com/cucumber/cucumber-expressions#readme) when possible.
-Features - Use Scenario as well as Scenario Outline with data table.
-Page-Objects - DO NOT make your selectors too generic.
+### What we look for
+1.Test Data - Don't use same data over and over again. Use FakerJS to generate random test data for names, emails, phone numbers.
+1.Step-Definitions - Try to create reusable step definitions. Use [parameterization](https://github.com/cucumber/cucumber-expressions#readme) when possible.
+1.Features - Use Scenario as well as Scenario Outline with data table.
+1.Page-Objects - DO NOT make your selectors too generic.
