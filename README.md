@@ -28,4 +28,4 @@ WebDriverIO Docs: https://webdriver.io/docs/gettingstarted
 1. Test Data - Don't use same data over and over again. Use FakerJS to generate random test data for names, emails, phone numbers.
 1. Step-Definitions - Try to create reusable step definitions. Use [parameterization](https://github.com/cucumber/cucumber-expressions#readme) when possible.
 1. Features - Use Scenario as well as Scenario Outline with data table.
-1. Page-Objects - DO NOT make your selectors too generic.
+1. Page-Objects - Do not make your selectors too generic.
