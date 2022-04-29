@@ -9,8 +9,9 @@ WebDriverIO Docs: https://webdriver.io/docs/gettingstarted
 * Please use Cucumber POM approach.
 
 ### Getting started
-Run `npm install`
-Run `npm run wdio` to run the test collection
+
+* Run `npm install` first, to install dependencies
+* Run `npm run wdio` to run the test collection
 
 ### Instructions
 
